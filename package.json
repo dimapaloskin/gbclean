@@ -1,7 +1,7 @@
 {
   "name": "gbclean",
   "version": "0.0.1",
-  "description": "Simple remove git branches interactively",
+  "description": "Simple and interactively git branches removing",
   "main": "src/index.js",
   "repository": "https://github.com/dimapaloskin/gbclean",
   "author": "Dima Paloskin",
