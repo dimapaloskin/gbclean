@@ -18,4 +18,4 @@ gbclean
 
 ---
 
-Dima Paloskin
+**Author**: [Dima Pavlovsky](https://github.com/dimapaloskin)
