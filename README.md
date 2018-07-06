@@ -2,6 +2,8 @@
 
 ### Simple and interactively git branches removing
 
+![screenshot](https://github.com/dimapaloskin/gbclean/blob/master/media/screen.png?raw=true|alt=screenshot)
+
 ### Install
 
 ```sh
