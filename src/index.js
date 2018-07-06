@@ -18,7 +18,8 @@ const clean = async (cwd) => {
       type: 'checkbox',
       name: 'branchesToDelete',
       message: 'Which branches you want to delete?',
-      choices: branches
+      choices: branches,
+      pageSize: 15
     }
 
     const { branchesToDelete } = await prompt(question)
