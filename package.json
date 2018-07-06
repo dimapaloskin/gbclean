@@ -1,0 +1,19 @@
+{
+  "name": "gbclean",
+  "version": "0.0.1",
+  "description": "Simple remove git branches interactively",
+  "main": "src/index.js",
+  "repository": "https://github.com/dimapaloskin/gbclean",
+  "author": "Dima Paloskin",
+  "license": "MIT",
+  "private": false,
+  "bin": "bin/cli.js",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "simple-git": "^1.96.0"
+  },
+  "devDependencies": {
+    "snazzy": "^7.1.1",
+    "standard": "^11.0.1"
+  }
+}
