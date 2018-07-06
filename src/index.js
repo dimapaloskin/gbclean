@@ -28,7 +28,6 @@ const clean = async (cwd) => {
     }
 
     for (const branch of branchesToDelete) {
-      console.log(branch)
       await git.branch(['-D', branch])
     }
 
